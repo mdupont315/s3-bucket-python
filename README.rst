@@ -3,20 +3,11 @@ Django S3 File Browser
 
 
 :Info: S3 File Browser For Django.
-:Author: Mehmet KAYKISIZ (http://github.com/mkaykisiz)
 
 
 Django S3 File Browser is a simple web-based object browser for cloud-based blob datastores. Just add as an application
 to a Django project, add some settings, and you'll be able to browse cloud containers and implied subdirectories, as
 well as view / download objects.
-
-
-Be sure to check out the following project resources:
-
-* `GitHub page`_.
-
-.. _`GitHub page`: https://github.com/mkaykisiz/DjangoS3Browser
-.. toc
 
 
 Quick Start
@@ -102,7 +93,3 @@ Finally, add this to the content of the page you want to add:
 
 
     {% load_s3 %}
-
-
-
-.. image:: https://user-images.githubusercontent.com/5642113/30087574-225e38a8-92aa-11e7-8bf4-4da7a5048812.png
